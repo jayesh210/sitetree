@@ -1,0 +1,33 @@
+aside {
+
+    background-color: #f4ebeb;
+    padding: 2% 8%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0;
+
+
+
+
+}
+.container-fluid{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+
+}
+
+.card-body {
+       margin: 15px 15px;
+    -webkit-box-shadow: 16px 16px 45px -14px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 16px 16px 45px -14px rgba(0, 0, 0, 1);
+    box-shadow: 16px 16px 45px -14px rgba(0, 0, 0, 1);
+
+    border-radius: 16px 16px 16px 16px;
+    -moz-border-radius: 16px 16px 16px 16px;
+    -webkit-border-radius: 16px 16px 16px 16px;
+
+    border: 0px solid #000000;
+
+}
